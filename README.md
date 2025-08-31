@@ -1,5 +1,3 @@
-# remediation-uninstall_wireshark_and_winpcap.ps1
-
 # Set the applications to uninstall.
 # Use the exact DisplayName as found in "Add or remove programs" or the registry.
 $AppsToUninstall = @(
